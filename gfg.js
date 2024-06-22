@@ -37,7 +37,7 @@ document.addEventListener('keydown', (e) => {
     bird.style.top = '40vh'; 
     game_state = 'Play'; 
     message.innerHTML = 'Game by DarkX'; 
-    score_title.innerHTML = 'Score : '; 
+    score_title.innerHTML = 'Game by DarkX  Score : '; 
     score_val.innerHTML = '0'; 
     play(); 
   } 
