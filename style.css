@@ -40,8 +40,8 @@ body {
     font-size: 10vh; 
     font-weight: 100; 
     color: black; 
-    top: 12vh; 
-    left: 20vw; 
+    top: 0vh; 
+    right: 0vw; 
     text-align: center; 
 } 
   
